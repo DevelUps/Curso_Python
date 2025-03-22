@@ -1,0 +1,10 @@
+x = input("")
+# int()
+# str()
+# floadt()
+# bool() truthy falsy
+print(bool(""))
+print(bool("0"))
+print(bool(None))
+print(bool(" "))
+print(bool(0))
